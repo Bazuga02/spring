@@ -1,0 +1,4 @@
+[
+  { "id": 1, "DisplayName": "John Doe", "Locations": [{ "City": "New York" }], "LocationErrors": [], "IsActive": true },
+  { "id": 2, "DisplayName": "Jane Smith", "Locations": [{ "City": "Los Angeles" }], "LocationErrors": ["Error"], "IsActive": false }
+]
